@@ -1,5 +1,3 @@
-go get -u github.com/go-sql-driver/mysql
-
 DROP TABLE IF EXISTS `employee`;
 CREATE TABLE `employee` (
   `id` int(6) unsigned NOT NULL AUTO_INCREMENT,
