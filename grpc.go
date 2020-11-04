@@ -1,7 +1,3 @@
-$ git clone https://github.com/grpc/grpc-go
-$ cd grpc-go/examples/helloworld
-$ go run greeter_server/main.go
-$ go run greeter_client/main.go
 Greeting: Hello world
 
 service Greeter {
